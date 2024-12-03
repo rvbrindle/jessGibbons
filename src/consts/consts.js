@@ -1,1 +1,1 @@
-export const COMPANY_NAME = 'Template Galore'
+export const COMPANY_NAME = 'Jess Gibbons Counselling'
